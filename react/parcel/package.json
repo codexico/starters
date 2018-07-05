@@ -1,0 +1,32 @@
+{
+  "name": "parceltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "parcel index.html --open",
+    "start": "parcel index.html",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^23.2.0",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.9.3",
+    "react-test-renderer": "^16.4.1"
+  }, "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>/jest.config.js"
+}
+}

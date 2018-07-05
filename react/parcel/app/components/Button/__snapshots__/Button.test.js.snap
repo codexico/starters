@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Button 1`] = `
+<button
+  className="Button"
+/>
+`;
+
+exports[`Render Button with asdf 1`] = `
+<button
+  asdf="bar"
+  className="Button"
+/>
+`;
+
+exports[`Render Button with foo 1`] = `
+<button
+  className="Button"
+/>
+`;
+
+exports[`Render Button with text 1`] = `
+<button
+  className="Button"
+>
+  foo
+</button>
+`;
+
+exports[`Render Button with type 1`] = `
+<button
+  className="Button"
+  type="bar"
+/>
+`;
