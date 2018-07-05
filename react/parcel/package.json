@@ -2,11 +2,13 @@
   "name": "parceltest",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "open": "parcel index.html --open",
     "start": "parcel index.html",
     "test": "jest",
+
+    "open": "parcel index.html --open",
     "test:watch": "jest --watchAll"
   },
   "keywords": [],
