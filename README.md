@@ -33,3 +33,9 @@ frontend project starters experiments
 ## The experiments could be:
 
 ### - Themeable
+
+## The experiments could have:
+
+- Image optimization
+- Assets minification
+- Font building (from svgs)
