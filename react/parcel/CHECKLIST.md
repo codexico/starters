@@ -4,9 +4,9 @@ frontend project starters experiments
 ## The experiments must have:
 
 ### - - Tests
-- [ X ] Unit testing
-- [ X ] Component testing
-- [ ] End-to-End testing
+- [X] Unit testing
+- [X] Component testing
+- [X] End-to-End testing
 - [ ] Visual regression testing
 
 ### - Enviroments, build and deploy to
