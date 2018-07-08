@@ -24,7 +24,7 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
-      - run: cd react/parcel && npm install
+      - run: cd react/parcel && npm ci
 
       - save_cache:
           paths:
